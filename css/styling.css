@@ -1,3 +1,9 @@
+
+body {
+    text-align: center;
+    background-color: antiquewhite;
+}
 #photo{
-    max-width: 600px;
+    max-width: 300px;
+    padding-top: 20px;
 }
